@@ -8,6 +8,7 @@ public class MainActivity extends Activity {
 	//hallo hallo hallo Testkommetar
 	//noch ein kommentar
 	//und noch einer...
+	//blubbb blubbb
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
